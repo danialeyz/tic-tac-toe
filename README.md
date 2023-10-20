@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# tic-tac-toe
-=======
+
 ## Tic Tac Toe game 
 Hello guys !❤️😃
 This project is a Tic Tac Toe game implemented in Javascript.
